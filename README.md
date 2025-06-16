@@ -1,9 +1,3 @@
-Module Code: CS2PP-24-5_S2_A <br>
-Assignment report Title: CS2PP_CW2 <br>
-Student Numbers: 32016360, 32010990, 32002517, 32002881, 32014440 <br>
-Actual hrs spent for the assignment: 150 hours <br>
-Which Artificial Intelligence tools used: ChatGPT
-
 ## a) Application Description and Instructions to operate it
 
 This application generates functional QR codes (Version 1 or Version 2) from user-provided input, using a GUI built with Tkinter. It includes a supplementary educational slideshow that explains internal QR code mechanisms (e.g. encoding, ECC, masking).
