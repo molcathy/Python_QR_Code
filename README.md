@@ -690,7 +690,7 @@ in powerpoint.py: <br>
 ![](screen_capture.mov)
 
 <video controls width="600">
-  <source src="screen_capture.mp4" type="video/mp4">
+  <source src="proof_of_mobile_app_qr.mov" type="video/mov">
 </video>
 
 
